@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: ivank
+Class-Path: lib/jsoup-1.11.3.jar
+Build-Jdk: 1.8.0_171
+Created-By: Maven Integration for Eclipse
+Main-Class: GerMer
+
